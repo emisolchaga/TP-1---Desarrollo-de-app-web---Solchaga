@@ -1,0 +1,7 @@
+// ¡Hola mundo en Dart!
+                void main() {
+                  print('Hola! Mi nombre es María Emilia Solchaga');
+                  print('Mi proyecto de App va a ser el desarrollo de "Alda", una app para ayudar a personas con transtornos alimenticios.');
+                  print('Es el mismo proyecto que presentamos con mis compañeras Nazarena Bordallo y Agostina Nieto en el primer semestre, pero ahora haríamos la App en lugar de la Web.');
+                }
+
